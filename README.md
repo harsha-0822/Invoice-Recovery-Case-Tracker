@@ -38,7 +38,7 @@ The system allows internal teams to:
 
 ## 📂 Project Folder Structure
 
-json ```
+```
 invoice-recovery-case-tracker/
 │
 ├── backend/
@@ -80,7 +80,7 @@ invoice-recovery-case-tracker/
 │ ├── db-schema.png
 │
 └── README.md
-
+```
 
 ---
 
